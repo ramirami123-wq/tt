@@ -97,7 +97,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Youngevity",
+            "text": "Luxury self-care, made simple",
             "text_size": 20,
             "link": ""
           }
@@ -114,7 +114,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#A56863",
+        "colors_background": "#a56863",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -126,7 +126,7 @@
         "heading_NEyD4Q": {
           "type": "heading",
           "settings": {
-            "heading": "AT Youngevity",
+            "heading": "AT Luxacare",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -134,7 +134,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>we believe that confidence begins with a healthy smile. Our mission is to create innovative, easy-to-use oral care solutions that help you maintain professional-level hygiene from the comfort of your home.</p><p>We combine modern technology with thoughtful design to deliver products that are effective, safe, and convenient for everyday use. From powerful sonic cleaning to user-friendly features, every Youngevity product is crafted to support your journey toward better oral health.</p>",
+            "text": "<p>We bring you carefully selected beauty essentials designed to make your daily routine easier, more effective, and more enjoyable. From innovative skincare tools to must-have beauty products, every item is chosen with quality, comfort, and results in mind.</p><p>Our mission is simple: to help you look your best, feel your best, and enjoy a touch of luxury in your everyday care.</p><p>Luxacare — Elevate Your Beauty. Enhance Your Confidence.</p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -173,7 +173,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "WELCOME TO YOUNGEVITY",
+            "text": "Feel confident, look radiant",
             "text_size": 20,
             "link": ""
           }
@@ -190,7 +190,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#A56863",
+        "colors_background": "#a56863",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -202,22 +202,22 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "Is the Youngevity Sonic Dental Scaler safe to use at home?",
-            "text": "<p>Yes! The device is designed for safe at-home use. It features gentle yet powerful sonic vibrations and multiple modes to suit different sensitivity levels.</p>"
+            "title": "How long does delivery take?",
+            "text": "<p>Our delivery usually takes <strong>5–7 business days</strong>. We work to get your beauty essentials delivered safely and as quickly as possible.<br/><br/></p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "Does it hurt to use?",
-            "text": "<p>When used correctly, it should not hurt. If you have sensitive gums, start with the lowest setting and gently guide the tip along your teeth.<br/></p>"
+            "title": "Are Luxacare products high quality?",
+            "text": "<p><strong>Are Luxacare products high quality?</strong>Yes. At Luxacare, we carefully select our products to ensure <strong>premium quality, reliable performance, and a great self-care experience</strong>.<br/><br/></p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Is it waterproof?",
-            "text": "<p>Yes, the Youngevity Sonic Dental Scaler is waterproof, making it safe for use in the bathroom and easy to clean after each use.<br/></p>"
+            "title": "How can I contact Luxacare?",
+            "text": "<p>You can easily reach our support team through <strong>WhatsApp</strong>. We’re happy to help with product questions, orders, and customer support.<br/><br/></p>"
           }
         }
       },
