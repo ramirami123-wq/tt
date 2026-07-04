@@ -131,6 +131,168 @@
         "padding_bottom": 72
       }
     },
+    "scrolling_promotion_PT9YtV": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_HEWWRt": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Glow anywhere, anytime",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_HEWWRt"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#FFFFFF",
+        "colors_background": "#A56863",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_b9FeWh": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7rTKCW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_gVLh4V": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7rTKCW",
+        "text_gVLh4V"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_krPdeF": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_gEqTzK": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Delivery All Over Lebanon",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_gEqTzK"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#FFFFFF",
+        "colors_background": "#A56863",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_eHwa6y": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dKAdQB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_RT8dQM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dKAdQB",
+        "text_RT8dQM"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -156,8 +318,22 @@
         "padding_bottom": 36
       }
     },
-    "1771945068374140eb": {
+    "1783123329d3818ae0": {
       "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_3QtqMP": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_3QtqMP"
+      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,
@@ -216,42 +392,17 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1771850465e38b72c3": {
-      "type": "_blocks",
-      "settings": {}
-    },
-    "1783123329d3818ae0": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_3QtqMP": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "sample_data",
-            "max_width": 1200,
-            "show_shop_reviews": false,
-            "empty_state": "empty_widget"
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_3QtqMP"
-      ],
-      "settings": {
-        "include_margins": true,
-        "show_divider": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "empty-space",
     "main",
+    "scrolling_promotion_PT9YtV",
+    "image_with_text_b9FeWh",
+    "scrolling_promotion_krPdeF",
+    "image_with_text_eHwa6y",
     "product-recommendations",
-    "1771945068374140eb",
-    "guarantees_Yj7NaV",
-    "1771850465e38b72c3",
-    "1783123329d3818ae0"
+    "1783123329d3818ae0",
+    "guarantees_Yj7NaV"
   ]
 }
